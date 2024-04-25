@@ -16,6 +16,11 @@ The main thing I was trying to learn was app development, version control, and d
 Currently working on the last two, but building the app was a great experience in how quickly I could pick up a new language by leveraging my current skills and experience.
 My main challenge was adding the ability to add a picture of the cover, and that is still underdevelopment, but I am optimistic I can get it implemented.
 
+## Usage
+
+![image](https://github.com/epryor1/ex-libris/assets/64035893/40bd1303-cd97-4c90-b1e5-ecfcd439fab9)
+![image](https://github.com/epryor1/ex-libris/assets/64035893/2eb2af45-ec93-4ec5-8dfa-a6335a08e191)
+
 
 ## Installation
 
